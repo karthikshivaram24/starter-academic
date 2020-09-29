@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Tulane University
-    year: 2020 - 2022
+    year: 2020 - Present
   - course: PhD in Computer Science (Transfered Out)
     institution: Illinois Institute of Technology
     year: 2018 - 2020
