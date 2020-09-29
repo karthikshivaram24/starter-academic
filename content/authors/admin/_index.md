@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Karthik Shivaram
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student - Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Tulane University
+  url: "https://tulane.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include social network analysis, machine learning, natural language processing and software engineering.
 
 interests:
-- Artificial Intelligence
+- Machine Learning
+- Social Network Analysis
+- Deep Learning
 - Computational Linguistics
 - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Tulane University
+    year: 2020 - 2022
+  - course: PhD in Computer Science (Transfered Out)
+    institution: Illinois Institute of Technology
+    year: 2018 - 2020
+  - course: Master of Science in Computer Science
+    institution: Illinois Institute of Technology
+    year: 2015 - 2017
+  - course: BEng in Mechanical Engineering
+    institution: BMS Institute of Technology
+    year: 2009 - 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
