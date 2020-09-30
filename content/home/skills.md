@@ -23,14 +23,14 @@ subtitle = ""
 [[feature]]
   icon = "cuttlefish"
   icon_pack = "fab"
-  name = "C`++`"
+  name = "C++"
   description = "40%"
 
-<!-- [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%" -->
+# [[feature]]
+#  icon = "r-project"
+#  icon_pack = "fab"
+#  name = "R"
+#  description = "90%"
   
 [[feature]]
   icon = "chart-line"
@@ -38,11 +38,11 @@ subtitle = ""
   name = "Statistics"
   description = "60%"  
   
-<!-- [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%" -->
+# [[feature]]
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+#  name = "Photography"
+#  description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
