@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "cuttlefish"
   icon_pack = "fab"
-  name = "C\+\+"
+  name = "C\\+\\+"
   description = "40%"
 
 <!-- [[feature]]
